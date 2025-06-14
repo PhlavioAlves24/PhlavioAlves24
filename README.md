@@ -1,5 +1,5 @@
-<h1 align="center">Desenvolvedor Front-End 👨‍💻 Phlavio Alves</h1>
-<h3 align="center"> Criando experiências na web limpas, responsivas e fáceis de usar. Bem-vindo!</h3>
+<h1 align="left">Desenvolvedor Front-End 👨‍💻 Phlavio Alves</h1>
+<h3 align="left"> Criando experiências na web limpas, responsivas e fáceis de usar. Bem-vindo!</h3>
 
 - Atuo como desenvolvedor Front-End, criando interfaces modernas, responsivas e acessíveis. Meus projetos priorizam desempenho, usabilidade e design limpos. **Phlavio.dev**
 
