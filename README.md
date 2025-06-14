@@ -3,7 +3,7 @@
 
 - Atuo como desenvolvedor Front-End, criando interfaces modernas, responsivas e acessíveis. Meus projetos priorizam desempenho, usabilidade e design limpo. **Phlavio.dev**
 
-- 👨‍💻 Você pode achar todos os meus projetos em [https://github.com/PhlavioAlves24/](https://github.com/PhlavioAlves24/)
+- 👨‍💻 Você pode achar todos os meus projetos em [https://github.com/PhlavioAlves24/](https://phlavioalves24.github.io/Meu-Portfolio/)
 
 - 💬 Ask me about **React vue,WordPress**
 
